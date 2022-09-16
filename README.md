@@ -1,16 +1,15 @@
-# demo_raja
+# Calculator
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is is simple calculator app which perform only arithmatic operations.
 
-A few resources to get you started if this is your first Flutter project:
+Please make sure your flutter setup is ready.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The UI of this app is below-----
+![cal_img2 (2)](https://user-images.githubusercontent.com/99542409/190568596-dace62a3-eae7-4700-be3e-a6d8b13e609e.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Thank you !
